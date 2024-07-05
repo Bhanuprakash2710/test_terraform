@@ -1,8 +1,8 @@
 variable "resource_grp_name" {
-    default = "akstestresourcegrp"
+    default = "Bhanu-final-assessment-rg"
 }
 
 variable "location" {
-  default = "eastasia"
+  default = "East Us"
 }
 
